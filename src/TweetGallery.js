@@ -1,7 +1,7 @@
 import React from 'react';
 import FakeTweet from "fake-tweet";
 import "fake-tweet/build/index.css";
-import 'react-lazy-load-image-component/src/effects/blur.css';
+//import 'react-lazy-load-image-component/src/effects/blur.css';
 import StackGrid from "react-stack-grid";
 
 
